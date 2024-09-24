@@ -2,4 +2,4 @@
 Небольшой тестовый проект.
 Таймер запрашивает московское время с сайта, а дальше начинает самостоятельно отсчитывать время.
 Чтобы поставить своё время нужно включить галочку в editing mode и в нужный input field поставить время в формате 00 (например 03 или 15).
-![Screenshot](https://github.com/user-attachments/assets/533ad69f-9f64-4bca-a4b9-ba8579e0f57d)
+![Screen](https://github.com/user-attachments/assets/e91db857-bd07-4f35-8cac-5b70d548e99d)
